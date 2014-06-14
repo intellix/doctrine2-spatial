@@ -26,7 +26,7 @@ namespace CrEOF\Spatial\ORM\Query\AST\Functions\MySql;
 use CrEOF\Spatial\ORM\Query\AST\Functions\AbstractSpatialDQLFunction;
 
 /**
- * GLength DQL function
+ * LineString DQL function
  *
  * @author  Damiano Ciarla <damiano.ciarla@gmail.com>
  * @license http://opensource.org/licenses/MIT MIT
