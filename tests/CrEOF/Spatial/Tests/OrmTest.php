@@ -35,7 +35,7 @@ use Doctrine\ORM\Query;
  * @author  Derek J. Lambert <dlambert@dereklambert.com>
  * @license http://dlambert.mit-license.org MIT
  */
-abstract class OrmTest extends \Doctrine\Tests\OrmFunctionalTestCase
+abstract class OrmTest extends OrmFunctionalTestCase
 {
     const GEOMETRY_ENTITY         = 'CrEOF\Spatial\Tests\Fixtures\GeometryEntity';
     const NO_HINT_GEOMETRY_ENTITY = 'CrEOF\Spatial\Tests\Fixtures\NoHintGeometryEntity';
